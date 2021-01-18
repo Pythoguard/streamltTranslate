@@ -1,2 +1,2 @@
 # streamltTranslate
-Language Translate 
+Language Translate
