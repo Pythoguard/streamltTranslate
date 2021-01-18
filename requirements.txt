@@ -1,0 +1,6 @@
+gtts
+streamlit
+playsound
+googletrans
+datetime
+os
